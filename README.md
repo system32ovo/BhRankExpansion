@@ -1,6 +1,6 @@
 # BHRank Expansion - PlaceholderAPI 扩展
 
-![BHRank](https://modrinth.com/plugin/bhrank)
+BHRank：https://modrinth.com/plugin/bhrank
 
 BHRank 插件的 PlaceholderAPI 扩展，允许在其他插件中使用 BHRank 的玩家头衔数据。
 
